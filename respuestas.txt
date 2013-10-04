@@ -1,0 +1,43 @@
+18. Muestra literalmente lo que escribiste. En este caso, Hola Mundo.
+
+21. Poniendo "\t\n" hace un tabulador y un retorno de carro. Si lo pones entre comillas simples
+('\t\n') muestra literalmente lo que has escrito, que es \t\n.
+
+22. %q es similar a usar comillas simples. No evalua la expresión escrita.
+
+23. %Q es similar a usar comillas dobles.  Evalua la expresión escrita.
+
+24. En c queda:  --4--
+                 --2--
+    Evalua la expresión.           
+
+25. En c queda:  --#{a}--
+                 --#{b}--
+    No evalua la expresión.
+
+26.
+    s[0,2]  -> he
+    s[-1,1] -> o
+    s[0,10] -> hello
+    
+27. hello world
+
+28. ...
+
+29. 2 2 2
+
+30. Es un array en el que están los elementos this, is, a y test con comillas simples.
+
+31. Es un array en el que los elementos almacenados son '\t' y '\n'.
+
+32. Es un array en el que los elementos almacenados son "\t" y "\n".
+
+33. Contiene un array vacío de 3 elementos.
+
+34. Contiene un array de 3 elementos inicializados a 0.
+
+35. Queda un array con los elementos 1, 2, 3 y 4.
+
+36. Quedan los elementos 0, 2 y 4. Los 3 primeros múltiplos de 2.
+
+37.
