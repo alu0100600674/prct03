@@ -286,6 +286,7 @@ RubJava=> nil
 
 
 52. ¿Qué hace yield 4, 5?
+Lo que hace es darle el control al bloque pasandole como argumentos 4 y 5. Cuando termina devuelve el control.
 
 
 53. ¿Qué hace la siguiente sentencia? counts = Hash.new(0) ¿Qué diferencia hay con la asignación counts = {}?
